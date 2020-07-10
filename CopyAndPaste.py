@@ -1,6 +1,6 @@
 # Demo of copying and pasting using Ctrl+c and Ctrl+v,
 # first using send_keys and then using actions.
-# On Mac, requires ChromeDriver version 85+.
+# On Mac, requires ChromeDriver version 86+.
 # On headless Chrome, copy-and-paste operates on a Chrome internal clipboard,
 # instead of the system clipboard.
 
